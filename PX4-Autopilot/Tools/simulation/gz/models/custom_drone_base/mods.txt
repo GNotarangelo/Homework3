@@ -1,0 +1,4 @@
+nel model.sdf è stato cambiato il riferimetno alla cartella dove vengono prese meshes e texture per avere una struttura quanto più modificabile posibile
+nelle texture dei materials è stata inserita una custom mesh
+è stato aggiunto un payload fittizio e una box rossa per rappresentarlo
+è stato anche aggiunto un file negli airframes che punta alla cartella custom_drone (anche il cmakelists interno è stato modificato per aggiungere tale file)

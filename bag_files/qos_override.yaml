@@ -1,0 +1,14 @@
+/fmu/out/vehicle_local_position:
+  reliability: best_effort
+  history: keep_last
+  depth: 1
+
+/fmu/out/manual_control_setpoint:
+  reliability: best_effort
+  history: keep_last
+  depth: 1
+
+/fmu/out/actuator_outputs:
+  reliability: best_effort
+  history: keep_last
+  depth: 1
